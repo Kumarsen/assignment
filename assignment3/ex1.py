@@ -1,3 +1,4 @@
+#Program to display numbers of threes
 a=int(input("enter number \t"))
 count=0
 while a!=0:
